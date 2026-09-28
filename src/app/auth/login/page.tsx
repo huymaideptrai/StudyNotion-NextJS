@@ -24,7 +24,7 @@ export default function Login() {
 
           <LoginForm />
         </div>
-        # ehwok
+
 
         <div className="relative mx-auto w-11/12 max-w-[450px] md:mx-0">
           <Image
